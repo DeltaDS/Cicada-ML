@@ -207,6 +207,7 @@ if __name__ == "__main__":
     network.add_layer(10, weights1)
     network.add_layer(4)
     network.draw()
+print(Cicada)
 
 from random import seed
 from random import random
